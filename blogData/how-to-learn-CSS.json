@@ -1,0 +1,4 @@
+{
+  "title": "How to Learn CSS",
+  "content": "<div class='p-4 bg-gray-100 rounded-lg shadow-md'><h2 class='text-xl font-bold mb-2'>How to Learn CSS</h2><ul class='list-decimal list-inside space-y-2'><li><strong>Understand Selectors:</strong> Learn about element, class, and ID selectors.</li><li><strong>Work with Box Model:</strong> Understand padding, margin, and border.</li><li><strong>Master Flexbox and Grid:</strong> Learn how to create responsive layouts.</li><li><strong>Use Media Queries:</strong> Make your designs mobile-friendly.</li><li><strong>Learn CSS Variables:</strong> Store and reuse values efficiently.</li><li><strong>Understand Animations:</strong> Work with transitions and keyframes.</li><li><strong>Practice with Projects:</strong> Build landing pages and UI components.</li><li><strong>Explore CSS Frameworks:</strong> Use Bootstrap or Tailwind CSS for rapid development.</li></ul></div>"
+}
