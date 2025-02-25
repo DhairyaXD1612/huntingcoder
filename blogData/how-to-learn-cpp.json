@@ -1,4 +1,0 @@
-{
-  "title": "How to Learn C++",
-  "content": "<div class='p-4 bg-gray-100 rounded-lg shadow-md'><h2 class='text-xl font-bold mb-2'>How to Learn C++</h2><ul class='list-decimal list-inside space-y-2'><li><strong>Start with the Basics:</strong> Learn about variables, loops, and functions.</li><li><strong>Understand OOP:</strong> Work with classes, objects, and inheritance.</li><li><strong>Learn Pointers and Memory Management:</strong> Understand dynamic memory allocation.</li><li><strong>Work with STL:</strong> Use vectors, maps, and algorithms.</li><li><strong>Explore File Handling:</strong> Learn how to read and write files.</li><li><strong>Debug and Optimize:</strong> Use debugging tools in Visual Studio or GDB.</li><li><strong>Practice with Competitive Programming:</strong> Solve problems on Codeforces and LeetCode.</li><li><strong>Build Real Projects:</strong> Create applications to improve skills.</li></ul></div>"
-}
