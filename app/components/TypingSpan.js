@@ -4,7 +4,7 @@ import React from "react";
 import Typed from 'typed.js'
 // Import the desired words
 
-const words = ["Javascript", "HTML, CSS", "Python", "Next.JS"]
+const words = ["Hunting", "Learning"]
 
 class Typing extends React.Component {
   componentDidMount() {
@@ -13,7 +13,7 @@ class Typing extends React.Component {
       typeSpeed: 100,
       backSpeed: 50,
       loop: true,
-      cursorChar: "|",
+      cursorChar: " ",
     };
     // this.el refers to the <span> in the render() method
     this.typed = new Typed(this.el, options);
